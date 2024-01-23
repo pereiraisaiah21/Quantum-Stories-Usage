@@ -1,0 +1,28 @@
+{
+  "name": "quantum-stories-usage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereiraisaiah21/Quantum-Stories-Usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereiraisaiah21/Quantum-Stories-Usage/issues"
+  },
+  "homepage": "https://github.com/pereiraisaiah21/Quantum-Stories-Usage#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "quantum-stories": "^1.0.5"
+  }
+}
